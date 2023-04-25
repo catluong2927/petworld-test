@@ -1,1 +1,2 @@
 file dev
+phong them vai detail
